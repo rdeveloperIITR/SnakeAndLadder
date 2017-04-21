@@ -1,0 +1,53 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>SnakeAndLadder</title>
+
+    <!-- WinJS references -->
+    <link href="//Microsoft.WinJS.2.0/css/ui-dark.css" rel="stylesheet" />
+    <script src="//Microsoft.WinJS.2.0/js/base.js"></script>
+    <script src="//Microsoft.WinJS.2.0/js/ui.js"></script>
+
+    <!-- SnakeAndLadder.Windows references -->
+    <link href="/css/default.css" rel="stylesheet" />
+    <script src="/js/default.js"></script>
+</head>
+<body class="win-type-body">
+    <div class="canvaspos">
+        <canvas id="can1" width="600" height="600"></canvas>
+    </div>
+    <img src="images/me.png" height="30" width="30" id="banner" style="position:absolute;left:50px;top:565px;" />
+    <img src="images/com.png" height="30" width="30" id="computer" style="position:absolute;left:50px;top:605px;" />
+    <br /><br />
+
+    <div class="title">
+        <img src="/images/snakesandladders.jpg" height="80" width="280" />
+    </div>
+
+    <div class="roll">
+        <button style="background-color:red; height:80px;width:239px ; color:white; cursor:pointer;" id="showme">
+            <h2>ROLL DICE</h2>
+        </button>
+
+        <center><img src="/images/face1.png" height="100" width="100" id="rolldice" style=" position:relative; top:20px;" /></center><br /><br />
+        <div class="position">
+            <input type="text" value="Move To : 0" id="current" style="color:blue; height:28px; width:235px; text-align:center;font-size:17px;" />
+        </div>
+    </div>
+
+    <div class="turn">
+        <div class="mecom">
+            <input type="text" value="Your Turn" id="turnup" style="color:white; height:54px;width:320px; text-align:center; background-color:green; font-size:30px;" />
+        </div>
+    </div>
+
+    <audio id="myaudio">
+        <source src="/audio/yourturn.mp3" type="audio/mp3">
+
+    </audio>
+    <audio id="comaudio">
+        <source src="/audio/computerturn.mp3" type="audio/mp3">
+    </audio>
+</body>
+</html>

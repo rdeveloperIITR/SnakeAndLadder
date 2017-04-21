@@ -1,0 +1,197 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>HP</Machine>
+    <WindowsUser>Administrator</WindowsUser>
+    <TargetPlatformIdentifier>WindowsPhoneApp</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>8d97abcb-f366-44eb-9da4-292c3987f35b</PackageIdentityName>
+    <IntermediateOutputPath>c:\users\administrator\documents\visual studio 2013\Projects\SnakeAndLadder\SnakeAndLadder\SnakeAndLadder.WindowsPhone\bld\Debug\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="c:\users\administrator\documents\visual studio 2013\Projects\SnakeAndLadder\SnakeAndLadder\SnakeAndLadder.WindowsPhone\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="c:\users\administrator\documents\visual studio 2013\Projects\SnakeAndLadder\SnakeAndLadder\SnakeAndLadder.WindowsPhone\audio\computerturn.mp3">
+      <PackagePath>audio\computerturn.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\administrator\documents\visual studio 2013\Projects\SnakeAndLadder\SnakeAndLadder\SnakeAndLadder.WindowsPhone\audio\yourturn.mp3">
+      <PackagePath>audio\yourturn.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\administrator\documents\visual studio 2013\Projects\SnakeAndLadder\SnakeAndLadder\SnakeAndLadder.WindowsPhone\default.html">
+      <PackagePath>default.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\administrator\documents\visual studio 2013\Projects\SnakeAndLadder\SnakeAndLadder\SnakeAndLadder.WindowsPhone\images\BadgeLogo.scale-200.png">
+      <PackagePath>images\BadgeLogo.scale-200.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\administrator\documents\visual studio 2013\Projects\SnakeAndLadder\SnakeAndLadder\SnakeAndLadder.WindowsPhone\images\button.png">
+      <PackagePath>images\button.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\administrator\documents\visual studio 2013\Projects\SnakeAndLadder\SnakeAndLadder\SnakeAndLadder.WindowsPhone\images\com.png">
+      <PackagePath>images\com.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\administrator\documents\visual studio 2013\Projects\SnakeAndLadder\SnakeAndLadder\SnakeAndLadder.WindowsPhone\images\face1.png">
+      <PackagePath>images\face1.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\administrator\documents\visual studio 2013\Projects\SnakeAndLadder\SnakeAndLadder\SnakeAndLadder.WindowsPhone\images\face2.png">
+      <PackagePath>images\face2.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\administrator\documents\visual studio 2013\Projects\SnakeAndLadder\SnakeAndLadder\SnakeAndLadder.WindowsPhone\images\face3.png">
+      <PackagePath>images\face3.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\administrator\documents\visual studio 2013\Projects\SnakeAndLadder\SnakeAndLadder\SnakeAndLadder.WindowsPhone\images\face4.png">
+      <PackagePath>images\face4.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\administrator\documents\visual studio 2013\Projects\SnakeAndLadder\SnakeAndLadder\SnakeAndLadder.WindowsPhone\images\face5.png">
+      <PackagePath>images\face5.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\administrator\documents\visual studio 2013\Projects\SnakeAndLadder\SnakeAndLadder\SnakeAndLadder.WindowsPhone\images\face6.png">
+      <PackagePath>images\face6.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\administrator\documents\visual studio 2013\Projects\SnakeAndLadder\SnakeAndLadder\SnakeAndLadder.WindowsPhone\images\LockScreenLogo.scale-200.png">
+      <PackagePath>images\LockScreenLogo.scale-200.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\administrator\documents\visual studio 2013\Projects\SnakeAndLadder\SnakeAndLadder\SnakeAndLadder.WindowsPhone\images\me.png">
+      <PackagePath>images\me.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\administrator\documents\visual studio 2013\Projects\SnakeAndLadder\SnakeAndLadder\SnakeAndLadder.WindowsPhone\images\newgame.png">
+      <PackagePath>images\newgame.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\administrator\documents\visual studio 2013\Projects\SnakeAndLadder\SnakeAndLadder\SnakeAndLadder.WindowsPhone\images\SplashScreen.scale-200.png">
+      <PackagePath>images\SplashScreen.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\administrator\documents\visual studio 2013\Projects\SnakeAndLadder\SnakeAndLadder\SnakeAndLadder.WindowsPhone\images\Square150x150Logo.scale-100.png">
+      <PackagePath>images\Square150x150Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\administrator\documents\visual studio 2013\Projects\SnakeAndLadder\SnakeAndLadder\SnakeAndLadder.WindowsPhone\images\Square150x150Logo.scale-125.png">
+      <PackagePath>images\Square150x150Logo.scale-125.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\administrator\documents\visual studio 2013\Projects\SnakeAndLadder\SnakeAndLadder\SnakeAndLadder.WindowsPhone\images\Square150x150Logo.scale-150.png">
+      <PackagePath>images\Square150x150Logo.scale-150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\administrator\documents\visual studio 2013\Projects\SnakeAndLadder\SnakeAndLadder\SnakeAndLadder.WindowsPhone\images\Square150x150Logo.scale-200.png">
+      <PackagePath>images\Square150x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\administrator\documents\visual studio 2013\Projects\SnakeAndLadder\SnakeAndLadder\SnakeAndLadder.WindowsPhone\images\Square150x150Logo.scale-240.png">
+      <PackagePath>images\Square150x150Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\administrator\documents\visual studio 2013\Projects\SnakeAndLadder\SnakeAndLadder\SnakeAndLadder.WindowsPhone\images\Square150x150Logo.scale-400.png">
+      <PackagePath>images\Square150x150Logo.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\administrator\documents\visual studio 2013\Projects\SnakeAndLadder\SnakeAndLadder\SnakeAndLadder.WindowsPhone\images\Square44x44Logo.scale-200.png">
+      <PackagePath>images\Square44x44Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\administrator\documents\visual studio 2013\Projects\SnakeAndLadder\SnakeAndLadder\SnakeAndLadder.WindowsPhone\images\Square44x44Logo.scale-240.png">
+      <PackagePath>images\Square44x44Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\administrator\documents\visual studio 2013\Projects\SnakeAndLadder\SnakeAndLadder\SnakeAndLadder.WindowsPhone\images\Square44x44Logo.targetsize-24_altform-unplated.png">
+      <PackagePath>images\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\administrator\documents\visual studio 2013\Projects\SnakeAndLadder\SnakeAndLadder\SnakeAndLadder.WindowsPhone\images\Square44x44Logo.targetsize-48.png">
+      <PackagePath>images\Square44x44Logo.targetsize-48.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\administrator\documents\visual studio 2013\Projects\SnakeAndLadder\SnakeAndLadder\SnakeAndLadder.WindowsPhone\images\StoreLogo.scale-100.png">
+      <PackagePath>images\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\administrator\documents\visual studio 2013\Projects\SnakeAndLadder\SnakeAndLadder\SnakeAndLadder.WindowsPhone\images\Wide310x150Logo.scale-200.png">
+      <PackagePath>images\Wide310x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\administrator\documents\visual studio 2013\Projects\SnakeAndLadder\SnakeAndLadder\SnakeAndLadder.WindowsPhone\images\Wide310x150Logo.scale-240.png">
+      <PackagePath>images\Wide310x150Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\administrator\documents\visual studio 2013\Projects\SnakeAndLadder\SnakeAndLadder\SnakeAndLadder.WindowsPhone\images\Square71x71Logo.scale-240.png">
+      <PackagePath>images\Square71x71Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\administrator\documents\visual studio 2013\Projects\SnakeAndLadder\SnakeAndLadder\SnakeAndLadder.WindowsPhone\images\SplashScreen.scale-240.png">
+      <PackagePath>images\SplashScreen.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\administrator\documents\visual studio 2013\Projects\SnakeAndLadder\SnakeAndLadder\SnakeAndLadder.WindowsPhone\images\StoreLogo.scale-240.png">
+      <PackagePath>images\StoreLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\administrator\documents\visual studio 2013\Projects\SnakeAndLadder\SnakeAndLadder\SnakeAndLadder.WindowsPhone\images\cup.gif">
+      <PackagePath>images\cup.gif</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\administrator\documents\visual studio 2013\Projects\SnakeAndLadder\SnakeAndLadder\SnakeAndLadder.WindowsPhone\images\face.gif">
+      <PackagePath>images\face.gif</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\administrator\documents\visual studio 2013\Projects\SnakeAndLadder\SnakeAndLadder\SnakeAndLadder.WindowsPhone\images\LadderA.gif">
+      <PackagePath>images\LadderA.gif</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\administrator\documents\visual studio 2013\Projects\SnakeAndLadder\SnakeAndLadder\SnakeAndLadder.WindowsPhone\images\LadderB.gif">
+      <PackagePath>images\LadderB.gif</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\administrator\documents\visual studio 2013\Projects\SnakeAndLadder\SnakeAndLadder\SnakeAndLadder.WindowsPhone\images\LadderC.gif">
+      <PackagePath>images\LadderC.gif</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\administrator\documents\visual studio 2013\Projects\SnakeAndLadder\SnakeAndLadder\SnakeAndLadder.WindowsPhone\images\SnakeA.gif">
+      <PackagePath>images\SnakeA.gif</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\administrator\documents\visual studio 2013\Projects\SnakeAndLadder\SnakeAndLadder\SnakeAndLadder.WindowsPhone\images\SnakeB.gif">
+      <PackagePath>images\SnakeB.gif</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\administrator\documents\visual studio 2013\Projects\SnakeAndLadder\SnakeAndLadder\SnakeAndLadder.WindowsPhone\images\SnakeC.gif">
+      <PackagePath>images\SnakeC.gif</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\administrator\documents\visual studio 2013\Projects\SnakeAndLadder\SnakeAndLadder\SnakeAndLadder.WindowsPhone\images\SnakeD.gif">
+      <PackagePath>images\SnakeD.gif</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\administrator\documents\visual studio 2013\Projects\SnakeAndLadder\SnakeAndLadder\SnakeAndLadder.WindowsPhone\images\snakesandladders.jpg">
+      <PackagePath>images\snakesandladders.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\administrator\documents\visual studio 2013\Projects\SnakeAndLadder\SnakeAndLadder\SnakeAndLadder.WindowsPhone\images\Square310x310Logo.scale-200.jpg">
+      <PackagePath>images\Square310x310Logo.scale-200.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\administrator\documents\visual studio 2013\Projects\SnakeAndLadder\SnakeAndLadder\SnakeAndLadder.WindowsPhone\images\woodenboard.jpg">
+      <PackagePath>images\woodenboard.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\administrator\documents\visual studio 2013\Projects\SnakeAndLadder\SnakeAndLadder\SnakeAndLadder.WindowsPhone\css\default.css">
+      <PackagePath>css\default.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\administrator\documents\visual studio 2013\Projects\SnakeAndLadder\SnakeAndLadder\SnakeAndLadder.WindowsPhone\css\ui-themed.css">
+      <PackagePath>css\ui-themed.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\administrator\documents\visual studio 2013\Projects\SnakeAndLadder\SnakeAndLadder\SnakeAndLadder.WindowsPhone\css\ui-themed.theme-dark.css">
+      <PackagePath>css\ui-themed.theme-dark.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\administrator\documents\visual studio 2013\Projects\SnakeAndLadder\SnakeAndLadder\SnakeAndLadder.WindowsPhone\css\ui-themed.theme-light.css">
+      <PackagePath>css\ui-themed.theme-light.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\administrator\documents\visual studio 2013\Projects\SnakeAndLadder\SnakeAndLadder\SnakeAndLadder.Shared\js\default.js">
+      <PackagePath>js\default.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\administrator\documents\visual studio 2013\Projects\SnakeAndLadder\SnakeAndLadder\SnakeAndLadder.WindowsPhone\bin\Debug\ReverseMap\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\WindowsPhoneApp\v8.1\ExtensionSDKs\Microsoft.Phone.WinJS.2.1\1.0\">
+      <Name>Microsoft.Phone.WinJS.2.1</Name>
+      <Version>1.0.9651.0</Version>
+      <Architecture>Neutral</Architecture>
+      <FrameworkIdentity>Name=Microsoft.Phone.WinJS.2.1, MinVersion=1.0.9651.0</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\WindowsPhoneApp\v8.1\ExtensionSDKs\Microsoft.Phone.WinJS.2.1\1.0\Microsoft.Phone.WinJS.2.1.appx</AppxLocation>
+      <MoreInfo>http://go.microsoft.com/fwlink/%3fLinkId=260891</MoreInfo>
+    </ResolvedSDKReference>
+  </ItemGroup>
+</Project>

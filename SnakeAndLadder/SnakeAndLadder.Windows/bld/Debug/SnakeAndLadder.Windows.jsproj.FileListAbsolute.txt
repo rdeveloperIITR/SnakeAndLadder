@@ -1,0 +1,15 @@
+c:\users\administrator\documents\visual studio 2013\Projects\SnakeAndLadder\SnakeAndLadder\SnakeAndLadder.Windows\bin\Debug\ReverseMap\resources.pri
+c:\users\administrator\documents\visual studio 2013\Projects\SnakeAndLadder\SnakeAndLadder\SnakeAndLadder.Windows\bin\Debug\AppxManifest.xml
+c:\users\administrator\documents\visual studio 2013\Projects\SnakeAndLadder\SnakeAndLadder\SnakeAndLadder.Windows\bin\Debug\SnakeAndLadder.Windows.build.appxrecipe
+c:\users\administrator\documents\visual studio 2013\Projects\SnakeAndLadder\SnakeAndLadder\SnakeAndLadder.Windows\bld\Debug\priconfig.xml
+c:\users\administrator\documents\visual studio 2013\Projects\SnakeAndLadder\SnakeAndLadder\SnakeAndLadder.Windows\bld\Debug\priconfig.xml.intermediate
+c:\users\administrator\documents\visual studio 2013\Projects\SnakeAndLadder\SnakeAndLadder\SnakeAndLadder.Windows\bld\Debug\layout.resfiles
+c:\users\administrator\documents\visual studio 2013\Projects\SnakeAndLadder\SnakeAndLadder\SnakeAndLadder.Windows\bld\Debug\layout.resfiles.intermediate
+c:\users\administrator\documents\visual studio 2013\Projects\SnakeAndLadder\SnakeAndLadder\SnakeAndLadder.Windows\bld\Debug\resources.resfiles
+c:\users\administrator\documents\visual studio 2013\Projects\SnakeAndLadder\SnakeAndLadder\SnakeAndLadder.Windows\bld\Debug\resources.resfiles.intermediate
+c:\users\administrator\documents\visual studio 2013\Projects\SnakeAndLadder\SnakeAndLadder\SnakeAndLadder.Windows\bld\Debug\pri.resfiles
+c:\users\administrator\documents\visual studio 2013\Projects\SnakeAndLadder\SnakeAndLadder\SnakeAndLadder.Windows\bld\Debug\pri.resfiles.intermediate
+c:\users\administrator\documents\visual studio 2013\Projects\SnakeAndLadder\SnakeAndLadder\SnakeAndLadder.Windows\bld\Debug\qualifiers.txt
+c:\users\administrator\documents\visual studio 2013\Projects\SnakeAndLadder\SnakeAndLadder\SnakeAndLadder.Windows\bld\Debug\qualifiers.txt.intermediate
+c:\users\administrator\documents\visual studio 2013\Projects\SnakeAndLadder\SnakeAndLadder\SnakeAndLadder.Windows\bld\Debug\MultipleQualifiersPerDimensionFound.txt
+c:\users\administrator\documents\visual studio 2013\Projects\SnakeAndLadder\SnakeAndLadder\SnakeAndLadder.Windows\bld\Debug\ProjectArchitectures.txt

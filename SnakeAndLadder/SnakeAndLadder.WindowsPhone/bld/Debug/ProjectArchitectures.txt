@@ -1,0 +1,1 @@
+c:\users\administrator\documents\visual studio 2013\Projects\SnakeAndLadder\SnakeAndLadder\SnakeAndLadder.WindowsPhone\SnakeAndLadder.WindowsPhone.jsproj;neutral

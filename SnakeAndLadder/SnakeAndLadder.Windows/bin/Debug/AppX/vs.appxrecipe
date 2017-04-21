@@ -1,0 +1,308 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>HP</Machine>
+    <WindowsUser>Administrator</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>854e76bb-f4ec-4f13-97d3-6bd6d486cfd2</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\Administrator\Documents\Visual Studio 2013\Projects\SnakeAndLadder\SnakeAndLadder\SnakeAndLadder.Windows\bld\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>40A60DF5E585B58C17DC749407BE1C8BECEB041E4A04C2B3BC7693B1747595CA</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>854e76bb-f4ec-4f13-97d3-6bd6d486cfd2_1.0.0.0_neutral__75cr2b68sm664</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>854e76bb-f4ec-4f13-97d3-6bd6d486cfd2_75cr2b68sm664!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>854e76bb-f4ec-4f13-97d3-6bd6d486cfd2</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Administrator</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Administrator\Documents\Visual Studio 2013\Projects\SnakeAndLadder\SnakeAndLadder\SnakeAndLadder.Windows\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-04-21T17:14:09.495</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Administrator\Documents\Visual Studio 2013\Projects\SnakeAndLadder\SnakeAndLadder\SnakeAndLadder.Windows\audio\computerturn.mp3">
+      <PackagePath>audio\computerturn.mp3</PackagePath>
+      <Modified>2015-10-17T14:00:22.062</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Administrator\Documents\Visual Studio 2013\Projects\SnakeAndLadder\SnakeAndLadder\SnakeAndLadder.Windows\audio\yourturn.mp3">
+      <PackagePath>audio\yourturn.mp3</PackagePath>
+      <Modified>2015-10-17T13:53:17.776</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Administrator\Documents\Visual Studio 2013\Projects\SnakeAndLadder\SnakeAndLadder\SnakeAndLadder.Windows\default.html">
+      <PackagePath>default.html</PackagePath>
+      <Modified>2017-04-21T14:30:42.130</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Administrator\Documents\Visual Studio 2013\Projects\SnakeAndLadder\SnakeAndLadder\SnakeAndLadder.Windows\images\BadgeLogo.scale-100.png">
+      <PackagePath>images\BadgeLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-04-21T15:48:45.622</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Administrator\Documents\Visual Studio 2013\Projects\SnakeAndLadder\SnakeAndLadder\SnakeAndLadder.Windows\images\BadgeLogo.scale-140.png">
+      <PackagePath>images\BadgeLogo.scale-140.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-04-21T15:47:40.068</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Administrator\Documents\Visual Studio 2013\Projects\SnakeAndLadder\SnakeAndLadder\SnakeAndLadder.Windows\images\BadgeLogo.scale-180.png">
+      <PackagePath>images\BadgeLogo.scale-180.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-04-21T15:43:04.697</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Administrator\Documents\Visual Studio 2013\Projects\SnakeAndLadder\SnakeAndLadder\SnakeAndLadder.Windows\images\button.png">
+      <PackagePath>images\button.png</PackagePath>
+      <Modified>2015-10-17T09:51:06.539</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Administrator\Documents\Visual Studio 2013\Projects\SnakeAndLadder\SnakeAndLadder\SnakeAndLadder.Windows\images\com.png">
+      <PackagePath>images\com.png</PackagePath>
+      <Modified>2015-10-15T17:20:02.455</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Administrator\Documents\Visual Studio 2013\Projects\SnakeAndLadder\SnakeAndLadder\SnakeAndLadder.Windows\images\face1.png">
+      <PackagePath>images\face1.png</PackagePath>
+      <Modified>2015-10-17T11:51:07.566</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Administrator\Documents\Visual Studio 2013\Projects\SnakeAndLadder\SnakeAndLadder\SnakeAndLadder.Windows\images\face2.png">
+      <PackagePath>images\face2.png</PackagePath>
+      <Modified>2015-10-17T11:53:03.591</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Administrator\Documents\Visual Studio 2013\Projects\SnakeAndLadder\SnakeAndLadder\SnakeAndLadder.Windows\images\face3.png">
+      <PackagePath>images\face3.png</PackagePath>
+      <Modified>2015-10-17T11:53:41.679</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Administrator\Documents\Visual Studio 2013\Projects\SnakeAndLadder\SnakeAndLadder\SnakeAndLadder.Windows\images\face4.png">
+      <PackagePath>images\face4.png</PackagePath>
+      <Modified>2015-10-17T11:54:05.487</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Administrator\Documents\Visual Studio 2013\Projects\SnakeAndLadder\SnakeAndLadder\SnakeAndLadder.Windows\images\face5.png">
+      <PackagePath>images\face5.png</PackagePath>
+      <Modified>2015-10-17T11:54:36.804</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Administrator\Documents\Visual Studio 2013\Projects\SnakeAndLadder\SnakeAndLadder\SnakeAndLadder.Windows\images\face6.png">
+      <PackagePath>images\face6.png</PackagePath>
+      <Modified>2015-10-17T11:55:12.339</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Administrator\Documents\Visual Studio 2013\Projects\SnakeAndLadder\SnakeAndLadder\SnakeAndLadder.Windows\images\LockScreenLogo.scale-200.png">
+      <PackagePath>images\LockScreenLogo.scale-200.png</PackagePath>
+      <Modified>2015-08-26T20:08:34.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Administrator\Documents\Visual Studio 2013\Projects\SnakeAndLadder\SnakeAndLadder\SnakeAndLadder.Windows\images\logo.scale-100.png">
+      <PackagePath>images\logo.scale-100.png</PackagePath>
+      <Modified>2015-10-17T22:47:51.435</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Administrator\Documents\Visual Studio 2013\Projects\SnakeAndLadder\SnakeAndLadder\SnakeAndLadder.Windows\images\logo.scale-180.png">
+      <PackagePath>images\logo.scale-180.png</PackagePath>
+      <Modified>2017-04-21T16:11:24.671</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Administrator\Documents\Visual Studio 2013\Projects\SnakeAndLadder\SnakeAndLadder\SnakeAndLadder.Windows\images\me.png">
+      <PackagePath>images\me.png</PackagePath>
+      <Modified>2015-10-15T17:02:56.501</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Administrator\Documents\Visual Studio 2013\Projects\SnakeAndLadder\SnakeAndLadder\SnakeAndLadder.Windows\images\newgame.png">
+      <PackagePath>images\newgame.png</PackagePath>
+      <Modified>2015-10-15T19:31:48.072</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Administrator\Documents\Visual Studio 2013\Projects\SnakeAndLadder\SnakeAndLadder\SnakeAndLadder.Windows\images\SmallLogo.scale-100.png">
+      <PackagePath>images\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-04-21T16:30:02.209</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Administrator\Documents\Visual Studio 2013\Projects\SnakeAndLadder\SnakeAndLadder\SnakeAndLadder.Windows\images\SmallLogo.scale-140.png">
+      <PackagePath>images\SmallLogo.scale-140.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-04-21T16:27:48.732</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Administrator\Documents\Visual Studio 2013\Projects\SnakeAndLadder\SnakeAndLadder\SnakeAndLadder.Windows\images\SmallLogo.scale-180.png">
+      <PackagePath>images\SmallLogo.scale-180.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-04-21T16:27:00.385</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Administrator\Documents\Visual Studio 2013\Projects\SnakeAndLadder\SnakeAndLadder\SnakeAndLadder.Windows\images\SmallLogo.scale-80.png">
+      <PackagePath>images\SmallLogo.scale-80.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-04-21T16:30:45.092</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Administrator\Documents\Visual Studio 2013\Projects\SnakeAndLadder\SnakeAndLadder\SnakeAndLadder.Windows\images\SplashScreen.scale-100.png">
+      <PackagePath>images\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-04-21T15:53:28.996</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Administrator\Documents\Visual Studio 2013\Projects\SnakeAndLadder\SnakeAndLadder\SnakeAndLadder.Windows\images\SplashScreen.scale-140.png">
+      <PackagePath>images\SplashScreen.scale-140.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-04-21T15:52:41.951</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Administrator\Documents\Visual Studio 2013\Projects\SnakeAndLadder\SnakeAndLadder\SnakeAndLadder.Windows\images\SplashScreen.scale-180.png">
+      <PackagePath>images\SplashScreen.scale-180.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-04-21T15:51:41.607</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Administrator\Documents\Visual Studio 2013\Projects\SnakeAndLadder\SnakeAndLadder\SnakeAndLadder.Windows\images\SplashScreen.scale-200.png">
+      <PackagePath>images\SplashScreen.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-10-17T22:37:01.718</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Administrator\Documents\Visual Studio 2013\Projects\SnakeAndLadder\SnakeAndLadder\SnakeAndLadder.Windows\images\Square150x150Logo.scale-100.png">
+      <PackagePath>images\Square150x150Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-04-21T16:13:52.616</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Administrator\Documents\Visual Studio 2013\Projects\SnakeAndLadder\SnakeAndLadder\SnakeAndLadder.Windows\images\Square150x150Logo.scale-140.png">
+      <PackagePath>images\Square150x150Logo.scale-140.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-04-21T16:12:31.342</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Administrator\Documents\Visual Studio 2013\Projects\SnakeAndLadder\SnakeAndLadder\SnakeAndLadder.Windows\images\Square150x150Logo.scale-180.png">
+      <PackagePath>images\Square150x150Logo.scale-180.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-04-21T16:11:24.671</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Administrator\Documents\Visual Studio 2013\Projects\SnakeAndLadder\SnakeAndLadder\SnakeAndLadder.Windows\images\Square150x150Logo.scale-80.png">
+      <PackagePath>images\Square150x150Logo.scale-80.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-04-21T16:14:19.640</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Administrator\Documents\Visual Studio 2013\Projects\SnakeAndLadder\SnakeAndLadder\SnakeAndLadder.Windows\images\Square310x310Logo.scale-100.png">
+      <PackagePath>images\Square310x310Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-04-21T16:20:13.690</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Administrator\Documents\Visual Studio 2013\Projects\SnakeAndLadder\SnakeAndLadder\SnakeAndLadder.Windows\images\Square310x310Logo.scale-140.png">
+      <PackagePath>images\Square310x310Logo.scale-140.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-04-21T16:19:29.710</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Administrator\Documents\Visual Studio 2013\Projects\SnakeAndLadder\SnakeAndLadder\SnakeAndLadder.Windows\images\Square310x310Logo.scale-180.png">
+      <PackagePath>images\Square310x310Logo.scale-180.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-04-21T16:19:00.288</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Administrator\Documents\Visual Studio 2013\Projects\SnakeAndLadder\SnakeAndLadder\SnakeAndLadder.Windows\images\Square310x310Logo.scale-80.png">
+      <PackagePath>images\Square310x310Logo.scale-80.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-04-21T16:20:45.646</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Administrator\Documents\Visual Studio 2013\Projects\SnakeAndLadder\SnakeAndLadder\SnakeAndLadder.Windows\images\Square70x70Logo.scale-100.png">
+      <PackagePath>images\Square70x70Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-04-21T16:05:26.272</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Administrator\Documents\Visual Studio 2013\Projects\SnakeAndLadder\SnakeAndLadder\SnakeAndLadder.Windows\images\Square70x70Logo.scale-140.png">
+      <PackagePath>images\Square70x70Logo.scale-140.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-04-21T16:04:29.224</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Administrator\Documents\Visual Studio 2013\Projects\SnakeAndLadder\SnakeAndLadder\SnakeAndLadder.Windows\images\Square70x70Logo.scale-180.png">
+      <PackagePath>images\Square70x70Logo.scale-180.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-04-21T16:03:23.906</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Administrator\Documents\Visual Studio 2013\Projects\SnakeAndLadder\SnakeAndLadder\SnakeAndLadder.Windows\images\Square70x70Logo.scale-80.png">
+      <PackagePath>images\Square70x70Logo.scale-80.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-04-21T16:06:09.172</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Administrator\Documents\Visual Studio 2013\Projects\SnakeAndLadder\SnakeAndLadder\SnakeAndLadder.Windows\images\StoreLogo.scale-100.png">
+      <PackagePath>images\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-04-21T15:57:27.806</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Administrator\Documents\Visual Studio 2013\Projects\SnakeAndLadder\SnakeAndLadder\SnakeAndLadder.Windows\images\StoreLogo.scale-140.png">
+      <PackagePath>images\StoreLogo.scale-140.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-04-21T15:56:27.399</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Administrator\Documents\Visual Studio 2013\Projects\SnakeAndLadder\SnakeAndLadder\SnakeAndLadder.Windows\images\StoreLogo.scale-180.png">
+      <PackagePath>images\StoreLogo.scale-180.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-04-21T15:55:41.368</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Administrator\Documents\Visual Studio 2013\Projects\SnakeAndLadder\SnakeAndLadder\SnakeAndLadder.Windows\images\Wide310x150Logo.scale-100.png">
+      <PackagePath>images\Wide310x150Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-04-21T16:16:53.112</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Administrator\Documents\Visual Studio 2013\Projects\SnakeAndLadder\SnakeAndLadder\SnakeAndLadder.Windows\images\Wide310x150Logo.scale-140.png">
+      <PackagePath>images\Wide310x150Logo.scale-140.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-04-21T16:16:17.242</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Administrator\Documents\Visual Studio 2013\Projects\SnakeAndLadder\SnakeAndLadder\SnakeAndLadder.Windows\images\Wide310x150Logo.scale-180.png">
+      <PackagePath>images\Wide310x150Logo.scale-180.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-04-21T16:15:39.237</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Administrator\Documents\Visual Studio 2013\Projects\SnakeAndLadder\SnakeAndLadder\SnakeAndLadder.Windows\images\Wide310x150Logo.scale-80.png">
+      <PackagePath>images\Wide310x150Logo.scale-80.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-04-21T16:17:29.394</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Administrator\Documents\Visual Studio 2013\Projects\SnakeAndLadder\SnakeAndLadder\SnakeAndLadder.Windows\images\cup.gif">
+      <PackagePath>images\cup.gif</PackagePath>
+      <Modified>2015-10-17T23:31:56.785</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Administrator\Documents\Visual Studio 2013\Projects\SnakeAndLadder\SnakeAndLadder\SnakeAndLadder.Windows\images\face.gif">
+      <PackagePath>images\face.gif</PackagePath>
+      <Modified>2015-10-09T10:13:38.978</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Administrator\Documents\Visual Studio 2013\Projects\SnakeAndLadder\SnakeAndLadder\SnakeAndLadder.Windows\images\LadderA.gif">
+      <PackagePath>images\LadderA.gif</PackagePath>
+      <Modified>2012-06-02T18:01:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Administrator\Documents\Visual Studio 2013\Projects\SnakeAndLadder\SnakeAndLadder\SnakeAndLadder.Windows\images\LadderB.gif">
+      <PackagePath>images\LadderB.gif</PackagePath>
+      <Modified>2012-06-02T18:01:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Administrator\Documents\Visual Studio 2013\Projects\SnakeAndLadder\SnakeAndLadder\SnakeAndLadder.Windows\images\LadderC.gif">
+      <PackagePath>images\LadderC.gif</PackagePath>
+      <Modified>2015-10-17T23:17:09.366</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Administrator\Documents\Visual Studio 2013\Projects\SnakeAndLadder\SnakeAndLadder\SnakeAndLadder.Windows\images\SnakeA.gif">
+      <PackagePath>images\SnakeA.gif</PackagePath>
+      <Modified>2012-06-02T17:54:10.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Administrator\Documents\Visual Studio 2013\Projects\SnakeAndLadder\SnakeAndLadder\SnakeAndLadder.Windows\images\SnakeB.gif">
+      <PackagePath>images\SnakeB.gif</PackagePath>
+      <Modified>2012-06-02T17:57:16.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Administrator\Documents\Visual Studio 2013\Projects\SnakeAndLadder\SnakeAndLadder\SnakeAndLadder.Windows\images\SnakeC.gif">
+      <PackagePath>images\SnakeC.gif</PackagePath>
+      <Modified>2015-10-17T22:56:39.014</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Administrator\Documents\Visual Studio 2013\Projects\SnakeAndLadder\SnakeAndLadder\SnakeAndLadder.Windows\images\SnakeD.gif">
+      <PackagePath>images\SnakeD.gif</PackagePath>
+      <Modified>2015-10-17T23:14:21.490</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Administrator\Documents\Visual Studio 2013\Projects\SnakeAndLadder\SnakeAndLadder\SnakeAndLadder.Windows\images\snakesandladders.jpg">
+      <PackagePath>images\snakesandladders.jpg</PackagePath>
+      <Modified>2015-10-16T19:39:56.170</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Administrator\Documents\Visual Studio 2013\Projects\SnakeAndLadder\SnakeAndLadder\SnakeAndLadder.Windows\images\woodenboard.jpg">
+      <PackagePath>images\woodenboard.jpg</PackagePath>
+      <Modified>2015-10-17T17:58:06.330</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Administrator\Documents\Visual Studio 2013\Projects\SnakeAndLadder\SnakeAndLadder\SnakeAndLadder.Windows\css\default.css">
+      <PackagePath>css\default.css</PackagePath>
+      <Modified>2017-04-21T14:28:55.493</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Administrator\Documents\Visual Studio 2013\Projects\SnakeAndLadder\SnakeAndLadder\SnakeAndLadder.Shared\js\default.js">
+      <PackagePath>js\default.js</PackagePath>
+      <Modified>2017-04-21T17:37:27.875</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Administrator\Documents\Visual Studio 2013\Projects\SnakeAndLadder\SnakeAndLadder\SnakeAndLadder.Windows\bin\Debug\ReverseMap\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2017-04-21T17:14:08.912</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.WinJS.2.0\1.0\">
+      <Name>Microsoft.WinJS.2.0</Name>
+      <Version>1.0.9600.17018</Version>
+      <Architecture>Neutral</Architecture>
+      <FrameworkIdentity>Name=Microsoft.WinJS.2.0, MinVersion=1.0.9600.17018</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.WinJS.2.0\1.0\Microsoft.WinJS.2.0.appx</AppxLocation>
+      <MoreInfo>http://go.microsoft.com/fwlink/%3fLinkId=260891</MoreInfo>
+    </ResolvedSDKReference>
+  </ItemGroup>
+</Project>
